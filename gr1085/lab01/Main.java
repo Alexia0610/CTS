@@ -8,6 +8,7 @@ class LowerCaseException extends Exception {
     @Override
     public String getMessage() {
         return "Ati introdus doar litere mici!";
+      
     }
 }
 
